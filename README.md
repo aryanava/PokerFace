@@ -1,5 +1,5 @@
 # PokerFace
-STM32F407VGTx Header Board. Includes Test Board to check soldering.
+STM32F407VGTx Header Board. Includes Test Board to check soldering.   
 Compatible with most of STM32 TQFP100 Micorcontrollers.
 <br>
 
